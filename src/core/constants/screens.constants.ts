@@ -1,0 +1,14 @@
+export enum RootScreens {
+  MAIN = 'MAIN',
+  MOVIE_DETAIL = 'MOVIE_DETAIL',
+  VIDEO_PLAYER = 'VIDEO_PLAYER',
+  SEAT_MAPPING = 'SEAT_MAPPING',
+  SEARCH = 'SEARCH'
+}
+
+export enum TabScreens {
+  DASHBOARD = 'DASHBOARD',
+  WATCH = 'WATCH',
+  MEDIA_LIBRARY = 'MEDIA_LIBRARY',
+  MORE = 'MORE'
+}
